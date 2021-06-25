@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://sologeek.github.io/</id>
+    <title>Gridea</title>
+    <updated>2021-06-25T07:30:12.234Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://sologeek.github.io/"/>
+    <link rel="self" href="https://sologeek.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://sologeek.github.io/images/avatar.png</logo>
+    <icon>https://sologeek.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[Start ?]]></title>
+        <id>https://sologeek.github.io/post/start/</id>
+        <link href="https://sologeek.github.io/post/start/">
+        </link>
+        <updated>2021-06-25T07:29:46.000Z</updated>
+        <content type="html"><![CDATA[<p>Let's go!</p>
+]]></content>
+    </entry>
+</feed>
